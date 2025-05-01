@@ -3,7 +3,7 @@ Project Description
 
 Household plants enhance indoor environments by improving air quality, increasing humidity, and reducing stress. However, maintaining plant health, particularly watering, can be difficult for busy individuals. 
 
-This project aims to develop an automated irrigation system for household plants, monitored via webpage. The system will use sensors to monitor soil moisture, temperature, humidity, and light, ensuring plants are watered efficiently.. 
+This project aims to develop an automated irrigation system for household plants, monitored via webpage. The system will use sensors to monitor soil moisture, temperature, humidity, and light, ensuring plants are watered efficiently.
 
 Why? 
 
